@@ -1,4 +1,4 @@
-# max-payne-tribute-site
+# Max Payne Tribute Site
 My first website, tribute to the Max Payne video game franchise.
 
 Written in HTML and CSS, not responsive.
